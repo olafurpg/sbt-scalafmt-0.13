@@ -1,1 +1,1 @@
-addSbtPlugin("com.geirsson" % "sbt-scalafmt"  % "0.6.6")
+libraryDependencies += "com.geirsson" %% "scalafmt-bootstrap"  % "0.6.6"
